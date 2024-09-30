@@ -1,4 +1,4 @@
-# University
+# University - Project
 This is the gomoku game I made for my final project in Year 2 of my Mathematics Degree. It is similar to Tic-Tac-Toe but played on an 8x8 grid, with players aiming to align five pieces
 
 •	Key Features:
